@@ -9,6 +9,11 @@
       "source": "/proohio",
       "destination": "https://proohio.click/",
       "permanent": true
+    },
+        {
+      "source": "/previewimage",
+      "destination": "https://github.com/proohio/bokweb/blob/main/bok%202025-05-02%2019_39_15.png?raw=true",
+      "permanent": true
     }
   ]
 }
